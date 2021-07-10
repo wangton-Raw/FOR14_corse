@@ -1,0 +1,41 @@
+1)
+
+input: distance, fuel efficiency, train ticket
+
+calculate the gass used by: fuel efficiency * 4$
+calculate the cost of maintance: distance * 0.05
+sum the cost together
+if the cost of using car is higher than the tran ticket
+    then report that it is cheaper to buy train ticket
+else
+ report that it is cheaper to drive
+
+
+ 2)
+
+ input: distance work,  work days, distance personal use, free time usage
+
+ calculate the total distance of using the car for work: distance work * working days
+ calculate the total distance og using the car during free time: distance personal use * fre time usage
+ sum total distance for both usage
+ calculate the fraction of work by dividing the distance by total distance
+ calculate the fraction of free time by dividing by total distance
+ report the fraction of the car usage for work and the fraction for free time
+
+
+3)
+
+while the length of the digit is less than six:
+    number <- 1 - 1/(3 + i) +1/(5 + i)
+
+list: prime
+number: pi_div_4
+create a table with all the prime numbers
+for i in range 100000
+    if i%= 0 then
+        append i in prime
+
+while the length of the digit is less than six:
+    pi_div_4 = 1 - 1/prime[i] + 1/prime[i+1]
+    i += 1
+    convert pi_div_4 to a string and check the length

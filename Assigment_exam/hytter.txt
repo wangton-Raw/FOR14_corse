@@ -1,0 +1,6 @@
+Gjendesheim 300 178.50
+Memurubu 100 210.65
+Gjendebu 200 236.78
+Torfinnsbu 20 111.11
+Olavsbu 20 300
+Skogadalsbøen 100 10
